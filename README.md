@@ -19,6 +19,14 @@ npm install
 npm run dev
 ```
 
+## The CSID recognized by this charge point server for the purpose of testing are
+
+```
+ STATION-01
+ STATION-02
+ STATION-03
+```
+
 ## To send a Boot Notification to the charge point server, on the OCPP simulator run:
 
 ```

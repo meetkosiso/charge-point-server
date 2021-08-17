@@ -3,7 +3,7 @@ import { authenticate } from '../../src/services/authentication';
 import stations from '../../src/services/stations.json';
 
 describe('Authentication', () => {
-	const credentials = 'STATION-02:testing-01';
+	const credentials = 'STATION-02:testing';
 	const wrongCredentials = 'STATION-02:testing-06';
 
 	it('should authenticate a request successfully', (done) => {
