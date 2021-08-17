@@ -19,7 +19,7 @@ npm install
 npm run dev
 ```
 
-## The CSID recognized by this charge point server for the purpose of testing are
+## The CSID recognised by this charge point server for the purpose of testing are:
 
 ```
  STATION-01
